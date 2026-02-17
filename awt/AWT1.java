@@ -15,6 +15,7 @@ public class AWT1 {
         Label label = new Label("Hello, AWT!");
         Button button = new Button("Click Me");
 
+
         // Add components to frame
         frame.add(label);
         frame.add(button);
